@@ -6,13 +6,12 @@ This directory contains:
 
 The demo program reads lines from stdin.
 Each line is appended onto a node in a BST.
-.
+
 
 This demo contains the following files:
- BST.h: header file of llist
- BST.c: implements BST 
- BSTDemo.c: a demonstration program that uses the linked list
- 
+ BST.h: header file; 
+ BST.c: implements BST;  
+ BSTDemo.c: a demonstration program; 
 
 To compile:
 ~~~
@@ -30,7 +29,3 @@ $ make clean
 ~~~
 
 .c
-
-
-
-
